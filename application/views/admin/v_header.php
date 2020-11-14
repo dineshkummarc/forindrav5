@@ -10,7 +10,7 @@
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini">FR</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg">FORINDRA</span>
+      <span class="logo-lg">Forum</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
