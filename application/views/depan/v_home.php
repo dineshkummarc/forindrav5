@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Forum Riyadi Bersaudara</title>
+    <title>Forum Classroom</title>
     <link rel="shorcut icon" href="<?php echo base_url().'theme/images/icon2-01.png'?>">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php echo base_url().'theme/css/bootstrap.min.css'?>">
@@ -164,7 +164,7 @@
         <div class="row">
             <div class="col-md-8">
                <h2>Welcome to Forindra</h2>
-               <p>Kami Menyambut baik terbitnya Website Forum yang baru , dengan harapan dipublikasinya website ini Forum Riyadi Bersaudara berharap Peningkatan Persaudaraan serta silahturahmi kepada Anggota dan masyarakat pada umumnya semakin meningkat. </p>
+               <p>Kami Menyambut baik terbitnya Website Forum yang baru , dengan harapan dipublikasinya website ini Forum Classroom berharap Peningkatan Persaudaraan serta silahturahmi kepada Anggota dan masyarakat pada umumnya semakin meningkat. </p>
 
             </div>
             <div class="col-md-4">
