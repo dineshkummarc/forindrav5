@@ -164,7 +164,7 @@
         <div class="row">
             <div class="col-md-8">
                <h2>Welcome to Forindra</h2>
-               <p>Kami Menyambut baik terbitnya Website Forindra yang baru , dengan harapan dipublikasinya website ini Forum Riyadi Bersaudara berharap Peningkatan Persaudaraan serta silahturahmi kepada Anggota dan masyarakat pada umumnya semakin meningkat. </p>
+               <p>Kami Menyambut baik terbitnya Website Forum yang baru , dengan harapan dipublikasinya website ini Forum Riyadi Bersaudara berharap Peningkatan Persaudaraan serta silahturahmi kepada Anggota dan masyarakat pada umumnya semakin meningkat. </p>
 
             </div>
             <div class="col-md-4">
