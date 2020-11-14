@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://localhost/forindrav5/';
-$config['base_url'] = 'http://local.rocket.co.in:8081/forum.test/forindrav5/';
+$config['base_url'] = 'http://local.rocket.co.in:8081/CheckThesePortals/forindrav5/';
 
 /*
 |--------------------------------------------------------------------------
