@@ -40,7 +40,7 @@
                             <span class="icon-phone" style="color: aqua;"></span><a  href="tel:08129292929">08129292929</a>
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-envelope-open" style="color: aqua;"></span><a  href="mailto:forindra@gmail.com">forindra@gmail.com</a>
+                            <span class="icon-envelope-open" style="color: aqua;"></span><a  href="mailto:admin@admin.com">admin@admin.com</a>
                         </div>
                         <div class="header-top_list">
                             <span class="icon-location-pin" style="color: aqua;"></span><a href="https://www.google.com/maps/place/Universitas+Gunadarma/@-6.3686382,106.8312514,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69ec0846d18769:0x87eb6f64d1a8a3b2!8m2!3d-6.3686382!4d106.8334401">Jl.Margonda Raya 100, INA. 11001</a>
@@ -213,7 +213,7 @@
                     <div class="address">
                         <h3>Hubungi Kami</h3>
                         <p><span>Alamat: </span>  Jl. Margonda Raya No.100, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424</p>
-                        <p>Email : Forindra@gmail.com
+                        <p>Email : admin@admin.com
                             <br> Phone : +0812 9292 0929</p>
                             <ul class="footer-social-icons">
                                 <li><a href="#"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
