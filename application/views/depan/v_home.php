@@ -163,7 +163,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-               <h2>Welcome to Forindra</h2>
+               <h2>Welcome to Forum</h2>
                <p>Kami Menyambut baik terbitnya Website Forum yang baru , dengan harapan dipublikasinya website ini Forum Classroom berharap Peningkatan Persaudaraan serta silahturahmi kepada Anggota dan masyarakat pada umumnya semakin meningkat. </p>
 
             </div>
@@ -335,7 +335,7 @@
                     </div>
                 </div>
                 <hr style="margin-top: 30px;">
-                <p align="center" style="color: #ccc; margin-top:30px; margin-bottom:-50px;">copyright <a style="color:cornflowerblue">Forindra</a> © <?php echo date('Y');?> by <a style="color:cornflowerblue;" href="https://www.linkedin.com/in/alfharizky-fauzi-20628817b/" target="_blank">Alfharizky Fauzi</a>. All rights reserved.</p>
+                <p align="center" style="color: #ccc; margin-top:30px; margin-bottom:-50px;">copyright <a style="color:cornflowerblue">Forum</a> © <?php echo date('Y');?> by <a style="color:cornflowerblue;" href="https://www.linkedin.com/in/alfharizky-fauzi-20628817b/" target="_blank">Alfharizky Fauzi</a>. All rights reserved.</p>
             </div>
         </footer>
         <!--//END FOOTER -->
