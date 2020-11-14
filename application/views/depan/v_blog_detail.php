@@ -10,7 +10,7 @@
 <!-- Required meta tags -->
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Forum Riyadi Bersaudara</title>
+    <title>Forum Classroom</title>
     <link rel="shorcut icon" href="<?php echo base_url().'theme/images/icon2-01.png'?>">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php echo base_url().'theme/css/bootstrap.min.css'?>">
