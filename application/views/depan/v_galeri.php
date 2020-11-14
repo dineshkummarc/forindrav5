@@ -175,7 +175,7 @@
                     </div>
                 </div>
                 <hr style="margin-top: 30px;">
-                <p align="center" style="color: #ccc; margin-top:30px; margin-bottom:-50px;">copyright <a style="color:cornflowerblue">Forindra</a> © <?php echo date('Y');?> by <a style="color:cornflowerblue;" href="https://www.linkedin.com/in/alfharizky-fauzi-20628817b/" target="_blank">Alfharizky Fauzi</a>. All rights reserved.</p>
+                <p align="center" style="color: #ccc; margin-top:30px; margin-bottom:-50px;">copyright <a style="color:cornflowerblue">Forum</a> © <?php echo date('Y');?> by <a style="color:cornflowerblue;" href="https://www.linkedin.com/in/alfharizky-fauzi-20628817b/" target="_blank">Alfharizky Fauzi</a>. All rights reserved.</p>
             </div>
         </footer>
         <!--//END FOOTER -->
